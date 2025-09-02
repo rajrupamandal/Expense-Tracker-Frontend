@@ -1,3 +1,14 @@
+
+## How to Run
+
+git clone https://github.com/rajrupamandal/Expense-Tracker-Frontend.git
+cd Expense-Tracker-Frontend
+npm install
+npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
